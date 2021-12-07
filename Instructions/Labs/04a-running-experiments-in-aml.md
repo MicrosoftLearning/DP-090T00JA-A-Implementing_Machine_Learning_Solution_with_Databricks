@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning で実験を実行する'
     module: 'モジュール 4 - Azure Databricks と Azure Machine Learning を統合する'
