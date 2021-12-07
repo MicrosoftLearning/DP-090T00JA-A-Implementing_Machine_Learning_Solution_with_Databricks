@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Databricks を使用したハイパーパラメーターのチューニング'
     module: 'オプションの演習'
