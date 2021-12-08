@@ -1,4 +1,4 @@
-﻿# DP-090: Microsoft Azure Databricks を使用した Machine Learning ソリューションの実装
+# DP-090: Microsoft Azure Databricks を使用した Machine Learning ソリューションの実装
 
 - **MCT の場合:** - [MCT 向け GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
 - **ラボの手順を手動でビルドする必要がありますか。** - 手順は、[MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) リポジトリで利用可能です

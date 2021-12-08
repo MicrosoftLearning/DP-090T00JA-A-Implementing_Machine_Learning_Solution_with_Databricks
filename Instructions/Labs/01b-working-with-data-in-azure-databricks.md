@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Databricks でデータを操作する'
     module: 'モジュール 1 - Azure Databricks の概要'

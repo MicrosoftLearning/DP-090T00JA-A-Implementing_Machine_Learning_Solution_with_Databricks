@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Databricks の概要'
     module: 'モジュール 1 - Azure Databricks の概要'

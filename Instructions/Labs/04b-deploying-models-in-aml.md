@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning でモデルをデプロイする'
     module: 'モジュール 4 - Azure Databricks と Azure Machine Learning を統合する'
