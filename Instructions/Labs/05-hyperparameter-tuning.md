@@ -91,7 +91,7 @@ Azure Databricks を使用するには、最初に Azure サブスクリプシ�
 1. ブレードが表示されるので、名前の横にある下向きのシェブロン (**v**) を選択し、「**インポート**」を選択します。
 
 1. 「**ノートブックのインポート**」ダイアログで、次の URL からノートブック アーカイブをインポートします。アーカイブ名のフォルダーが作成され、2 つのノートブックが含まれていることに注意してください。
-   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/madiepev-add-modules/05%20-%20Hyperparameter%20Tuning.dbc`
+   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/master/05%20-%20Hyperparameter%20Tuning.dbc`
 
 ## 自動化された MLflow ハイパーパラメーターのチューニング調べる
 

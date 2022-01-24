@@ -53,7 +53,7 @@ Azure Databricks を使用するには、最初に Azure サブスクリプシ�
 
 1. ファイルがワークスペースにアップロードされたら、「**UI を使用してテーブルを作成**」を選択します。次に、クラスターを選択し、「**テーブルのプレビュー**」を選択します。
 
-1. 次のテーブル属性を指定して、「**テーブルの作成**」を選択します。
+1. 次のテーブル属性を指定します。
 
     - **テーブル名**: nyc_taxi
     - **データベースで作成**: 既定
@@ -62,6 +62,22 @@ Azure Databricks を使用するには、最初に Azure サブスクリプシ�
     - **先頭の行を見出しとして使用**: *チェック*
     - **Infer schema**: *チェック*
     - **マルチライン**: *チェック解除*
+
+1. 各列に適切なデータ型を設定します。**passengerCount** 列を見つけます。ドロップダウン　メニューで、列を **INT** に設定します。
+
+    - passengerCount: **INT**
+    - tripDistance: **DOUBLE**
+    - hour_of_day: **INT**
+    - day_of_week: **INT**
+    - month_num: **INT**
+    - isPaidTimeOff: **BOOLEAN**
+    - snowDepth: **DOUBLE**
+    - precipTime: **DOUBLE**
+    - precipDepth: **DOUBLE**
+    - temperature: **DOUBLE**
+    - totalAmount: **DOUBLE**
+
+1. **「テーブルの作成」** をクリックします。
 
 1. テーブルが作成されたら、ワークスペースで表示します。
 
