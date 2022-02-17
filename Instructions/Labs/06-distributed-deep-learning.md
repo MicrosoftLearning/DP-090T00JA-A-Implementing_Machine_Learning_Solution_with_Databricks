@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Databricks を使用した分散ディープ ラーニング'
     module: 'オプションの演習'
