@@ -1,3 +1,11 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/dp-090-databricks-ml.ja-jp) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/dp-090-databricks-ml.ja-jp).
 # DP-090: Microsoft Azure Databricks を使用した Machine Learning ソリューションの実装
 
 - **MCT の場合:** - [MCT 向け GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
